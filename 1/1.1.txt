@@ -1,0 +1,5 @@
+devops-docker git:(main) ✗ docker container ls -a
+CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS                     PORTS     NAMES
+5bc80bd1bf09   nginx     "/docker-entrypoint.…"   29 seconds ago   Exited (0) 7 seconds ago             jovial_cerf
+36fe5cc132c7   nginx     "/docker-entrypoint.…"   30 seconds ago   Exited (0) 4 seconds ago             strange_colden
+c3a3894b0ec0   nginx     "/docker-entrypoint.…"   31 seconds ago   Up 30 seconds              80/tcp    mystifying_bell
