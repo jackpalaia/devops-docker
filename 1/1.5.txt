@@ -1,0 +1,6 @@
+➜  devops-docker git:(main) docker image ls 
+REPOSITORY                          TAG       IMAGE ID       CREATED        SIZE
+ubuntu                              latest    174c8c134b2a   2 weeks ago    77.9MB
+ubuntu                              18.04     f9a80a55f492   7 months ago   63.2MB
+devopsdockeruh/simple-web-service   ubuntu    4e3362e907d5   2 years ago    83MB
+devopsdockeruh/simple-web-service   alpine    fd312adc88e0   2 years ago    15.7MB
