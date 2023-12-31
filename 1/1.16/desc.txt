@@ -1,0 +1,1 @@
+I made a VM on Oracle Cloud and pushed an image for my website to Docker Hub. I then installed Docker on the VM, pulled the image, and ran it from the VM. The url is 146.235.215.175:3000.
